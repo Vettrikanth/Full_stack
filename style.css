@@ -11,10 +11,11 @@ body
     color: rgba(214, 199, 199, 0.64);
     font-family: cursive;
 }
-.first{
+
+/* .first{
 color:rgb(5, 141, 246);
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-font-size: 40px;
+font-size: 30px;
 text-align: center;
 }
 
@@ -35,9 +36,9 @@ font-size: 50px;
 .rno{
 color:rgb(246, 125, 5);
 font-size: 25px;
-}
+} */
 
-.test
+/* .test
 {
 font-size: 50px;
-}
+} */
