@@ -12,6 +12,10 @@ body
     font-family: cursive;
 }
 
+p{
+
+    color: darkgoldenrod;    
+}
 /* .first{
 color:rgb(5, 141, 246);
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
