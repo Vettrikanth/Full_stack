@@ -1,1 +1,4 @@
-print(None == None)
+def display():
+    print("gegegge")
+
+print(display())
