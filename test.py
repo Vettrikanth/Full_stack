@@ -1,1 +1,1 @@
-print("abc")
+print(None == None)

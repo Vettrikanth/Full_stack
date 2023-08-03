@@ -19,7 +19,32 @@
 // const c=20
 // console.log("value in const type:",c)
 
-const c=100
-console.log(c)
-const cc=56
-console.log(cc)
+// const c=100
+// console.log(c)
+// const cc=56
+// console.log(cc)
+
+
+// a=4 
+// if (a===0){
+//     console.log("Zero")
+// }
+// else if(a>0){
+//     console.log("Positive")
+// }
+// else{
+//     console.log("Negative")
+// }
+
+
+a=10
+for (i=1;i<a;i++){
+    console.log(i)
+}
+
+
+i=1
+while (i<a){
+    console.log(i)
+    i++
+}
