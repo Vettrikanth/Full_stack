@@ -40,7 +40,9 @@ a4=10
 for (i=1;i<a4;i++){
     console.log(i)
 }
+
 console.log("\n")
+
 i=1
 while (i<a4){
     console.log(i)
@@ -48,6 +50,7 @@ while (i<a4){
 }
 
 console.log("\n")
+
 n=1
 l1=[100,200,300,400,500]
 l1.forEach(i => {
