@@ -87,3 +87,37 @@ if (test_arr.length >0){
 else{
     console.log("No elements")
 }
+
+//object aka JSON
+car={
+    car:"Etios",
+    year:2014,
+    speed:"145 kmph",
+    km:"85k"
+}
+
+car.cam={isPresent:"no",exter:"yes",use:"may be"}
+var s1="km"
+
+console.log("Max speed:",car.speed)
+console.log("year:",car["year"])
+console.log("KM:",car[s1])
+console.log(car)
+
+car.car="Etios VD"
+
+console.log(car)
+console.log("Camera:",car.cam.isPresent)
+console.log("Extrenal Camera:",car.cam.exter)
+
+console.log("\n")
+
+for (ele in car){
+    console.log(ele,car[ele])
+    if (typeof car[ele] === "object")
+    {
+        for (val in car[ele]){
+            console.log(val,car[ele][val])
+        }
+    }
+} 
