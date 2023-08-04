@@ -1,4 +1,2 @@
-def display():
-    print("gegegge")
-
-print(display())
+a="hkgdhegchjedgxhgedhgxdegchgxhed"
+print(len(a))
