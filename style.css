@@ -8,6 +8,14 @@ body
     color:whitesmoke;
 } */
 
+.vettri{
+    color: violet;
+}
+
+.google{
+    text-decoration: none;
+}
+
 .all{
     color: rgba(214, 199, 199, 0.64);
     font-family: cursive;
@@ -23,6 +31,20 @@ p{
     float:right;    
      margin: 0 100px 0 0;
     }
+
+.college{
+    text-align: center;
+    color: aqua; 
+    text-decoration: none;
+}
+
+.vercel{
+    text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 20px;color: limegreen;
+}
+
+.tony{
+    text-align: center;font-size: 50px; text-decoration:none;color:blue;font-family:serif;
+}
 
 .center {
         display: block;

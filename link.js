@@ -7,3 +7,4 @@ function myfunhome2(){
 function myfunhome3(){
     document.getElementById("hello1").innerHTML="kct cbe"
 }
+
